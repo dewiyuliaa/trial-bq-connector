@@ -3,3 +3,7 @@ pandas
 numpy
 matplotlib
 plotly
+google-cloud-bigquery
+google-auth
+db-dtypes
+pyarrow
